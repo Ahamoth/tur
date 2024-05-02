@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tur/static/css/main.86e506de.css",
+    "main.js": "/tur/static/js/main.f3c83bf0.js",
+    "index.html": "/tur/index.html",
+    "main.86e506de.css.map": "/tur/static/css/main.86e506de.css.map",
+    "main.f3c83bf0.js.map": "/tur/static/js/main.f3c83bf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e506de.css",
+    "static/js/main.f3c83bf0.js"
+  ]
+}
