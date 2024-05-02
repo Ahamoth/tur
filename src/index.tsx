@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import UserMain from "./pages/userMain/UserMain";
-import Login from "./pages/login/Login";
-import Registration from "./pages/registration/Registration";
+import UserMain from "https://ahamoth.github.io/tur/pages/userMain/UserMain";
+import Login from "https://ahamoth.github.io/tur/pages/login/Login";
+import Registration from "https://ahamoth.github.io/tur/pages/registration/Registration";
 import {createBrowserRouter, RouterProvider} from 'react-router-dom';
-import Cart from "./pages/card/Cart";
-import Manager from "./pages/manager/Manager";
-import TourCreation from "./pages/manager/TourCreation";
+import Cart from "https://ahamoth.github.io/tur/pages/card/Cart";
+import Manager from "https://ahamoth.github.io/tur/pages/manager/Manager";
+import TourCreation from "https://ahamoth.github.io/tur/pages/manager/TourCreation";
 import {Auth0Provider} from "@auth0/auth0-react";
 
 const root = ReactDOM.createRoot(
