@@ -1,7 +1,7 @@
 {
   "name": "tur",
   "version": "0.1.0",
-  "homepage": "https://ahamoth.github.io/tur",
+  "homepage": "https://dashatretyakk.github.io/tur",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^2.1.0",
